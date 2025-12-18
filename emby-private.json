@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "lilyemby.my",
+        "nijigem.by",
+        "cn2gias.uk",
+        "bangumi.ca",
+        "ichinosekotomi.vip",
+        "emby.wtf",
+        "emos.lol",
+        "hohai.eu.org",
+        "shrekmedia.org",
+        "biliblili.uk"
+      ]
+    }
+  ]
+}
